@@ -1,6 +1,6 @@
 # Actividad Clase 10 — Patrones de Diseño
 
-Repositorio correspondiente a la **Clase 10 de Programación Avanzada (189)** de la Licenciatura en Ciencia de Datos — UNAB.
+Repositorio correspondiente a la **Clase 10 de Programación Avanzada (189)** de la Tecnicatura en Programación — UNAB.
 
 ## Actividad
 
