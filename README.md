@@ -16,6 +16,8 @@ actividad_clase10/
     ├── adapter.py          # Patrón Estructural — Integración de pasarelas de pago
     └── mediator.py         # Patrón de Comportamiento — Sala de chat con bot
 ├── ejercicio_3/   #  Ejemplos concretos de patrones de diseño aplicados a la vida real.
+├── ejercicio_4/   #  Alias de patrones de diseño.
+└── ejercicio_5/   #  Antipatrones de diseño.
 
 
 ```
