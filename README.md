@@ -37,3 +37,13 @@ python ejercicio_2/factory_method.py
 python ejercicio_2/adapter.py
 python ejercicio_2/mediator.py
 ```
+
+# Integrantes:
+
+- Rodrigo Podoba
+- Milena Iñiguez
+- Miguel Miguez
+
+#El trabajo se realizó a través de Discord y utilizando LiveShare para la colaboración en el codigo en conjunno.
+
+
